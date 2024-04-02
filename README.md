@@ -1,14 +1,14 @@
 # Operating Systems Repository
 
-Welcome to the Operating Systems repository! This repository contains codes, notes, and resources related to operating systems. Whether you're a student or a professional interested in learning about operating systems concepts, this repository aims to provide valuable materials to enhance your understanding.
+Welcome to the Operating Systems repository! This repository contains codes, notes, and resources related to operating systems. I'm a student who is deeply interested in developing operating systems and in this repository I will be sharing the codes I wrote and the notes I took.
 
 ## Resources
 
 ### Video Tutorials:
-- [Neso Academy](#) - Comprehensive video lectures covering a wide range of operating system topics.
-- [Udemy (Abhishek)](#) - Engaging courses taught by Abhishek on various aspects of operating systems.
-- [Yusuf Salihlioglu's YouTube Channel](#) - Informative videos discussing operating system concepts and practical implementations.
-- [The Linux Channel](#) - In-depth tutorials and demonstrations focused on Linux operating systems.
+- [Neso Academy](https://www.youtube.com/@nesoacademy) - Comprehensive video lectures covering a wide range of operating system topics.
+- [Udemy (Abhishek)](https://www.udemy.com/course/multithreading_parta/) - Engaging courses taught by Abhishek on various aspects of operating systems.
+- [Yusuf Salihlioglu's YouTube Channel](https://www.youtube.com/watch?v=lFWYEB8h6jc&list=PLamOUbhy_opKCxDmsO5gjwUW4_cl1xSml) - Informative videos discussing operating system concepts and practical implementations.
+- [The Linux Channel](https://www.youtube.com/@TheLinuxChannel) - In-depth tutorials and demonstrations focused on Linux operating systems.
 - [Daedalus Community](https://www.youtube.com/@DaedalusCommunity) - Community-driven content on operating systems and related technologies.
 
 ### Books:
