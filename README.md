@@ -9,7 +9,7 @@ Welcome to the Operating Systems repository! This repository contains codes, not
 - [Udemy (Abhishek)](#) - Engaging courses taught by Abhishek on various aspects of operating systems.
 - [Yusuf Salihlioglu's YouTube Channel](#) - Informative videos discussing operating system concepts and practical implementations.
 - [The Linux Channel](#) - In-depth tutorials and demonstrations focused on Linux operating systems.
-- [Daedalus Community](#) - Community-driven content on operating systems and related technologies.
+- [Daedalus Community](https://www.youtube.com/@DaedalusCommunity) - Community-driven content on operating systems and related technologies.
 
 ### Books:
 - **Operating System Concepts, 10th Edition** - Widely regarded as a classic textbook, offering a thorough introduction to operating systems principles.
