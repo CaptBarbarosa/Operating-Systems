@@ -10,6 +10,7 @@ Welcome to the Operating Systems repository! This repository contains codes, not
 - [Yusuf Salihlioglu's YouTube Channel](https://www.youtube.com/watch?v=lFWYEB8h6jc&list=PLamOUbhy_opKCxDmsO5gjwUW4_cl1xSml) - Informative videos discussing operating system concepts and practical implementations.
 - [The Linux Channel](https://www.youtube.com/@TheLinuxChannel) - In-depth tutorials and demonstrations focused on Linux operating systems.
 - [Daedalus Community](https://www.youtube.com/@DaedalusCommunity) - Community-driven content on operating systems and related technologies.
+- [CodeVault](https://www.youtube.com/@CodeVault) - An amazing youtube channel thta explains hard concepts easy.
 
 ### Books:
 - **Operating System Concepts, 10th Edition** - Widely regarded as a classic textbook, offering a thorough introduction to operating systems principles.
